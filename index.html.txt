@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+
+<body>
+    <style>
+        body {
+            background-image: url(sun2.jpg);
+            background-repeat: no-repeat;
+            background-position: right;
+            margin-right: 150px;
+            background-attachment: fixed;
+        }
+        
+        table,
+        td {
+            border: 1px solid black;
+        }
+        
+        h1 {
+            font-size: 40px;
+        }
+        
+        h2 {
+            font-size: 30px;
+        }
+    </style>
+    <table style="width:100%">
+        <tr>
+            <th>
+                <h1>My super side</h1>
+            </th>
+        </tr>
+        <tr>
+            <td>
+                <a href="index.html">Home</a>
+            </td>
+            <td>
+                <a href="index.html">Photo</a>
+            </td>
+            <td>
+                <a href="index.html">B log</a>
+
+            </td>
+            <td>
+                <a href="index.html"> Contact</a>
+            </td>
+        </tr>
+    </table>
+
+    <p>
+        <h2> Title</h2>
+    </p>
+    <table style="width:100%">
+        <tr>
+            <th>
+                <h2>Title</h2>
+            </th>
+            <td>Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, assumenda aliquid. Maiores harum fuga ipsa rem tenetur quasi ex perspiciatis, dignissimos dolorum nihil debitis porro doloremque quo dolor culpa pariatur eaque quos, nisi aliquam
+                animi. Quae rerum rem facere maxime vel, harum enim qui libero inventore exercitationem. Necessitatibus cumque nostrum, itaque earum, nesciunt blanditiis nemo ipsum enim laborum maxime molestias exercitationem libero? Quos esse optio excepturi
+                hic! Dicta delectus numquam iste suscipit? Dicta dolorem ipsa itaque sapiente accusamus. Id hic cumque rerum quasi, deleniti consequuntur! Ipsam accusantium, maxime iusto est vitae autem excepturi repellendus eveniet at aut ipsa voluptate
+                nisi.
+            </td>
+        </tr>
+    </table>
+    <p>Julavschi Andrei
+    </p>
+</body>
+
+
+</html>
